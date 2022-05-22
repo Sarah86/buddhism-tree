@@ -111,7 +111,7 @@ function Tree(
   });
 
   const color = (d = { data: { name: "Vimalamitra" } }) => {
-    const node = duplicatedValues.find((node) => d.data.name === node.name);
+    const node = duplicatedValues.find((node) => d.data.name.toLowerCase().includes(node.name.toLowerCase()));
     const value = node?.value;
     const colorIndex = value - 1
     return node ? d3.schemeSet2[colorIndex] : stroke;
@@ -204,9 +204,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Tibetan Buddhism Teacher - Students</h1>
+        <h2>Tibetan Buddhism Teacher - Students</h2>
         <div ref={svg} />
-        <h1>Tibetan Buddhism Emanations</h1>
+        <h2>Tibetan Buddhism Emanations</h2>
         <div ref={svg02} />
       </header>
     </div>

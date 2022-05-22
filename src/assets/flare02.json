@@ -1,62 +1,76 @@
 {
-  "name": "Emanations",
+  "name": "Emanations / Reincarnations",
   "children": [
     {
-      "name": "Vajravarahi's Speech",
+      "name": "Vajravarahi",
       "children": [
         {
-          "name": "Yeshe Tsogyal"
-        }
-      ]
-    },
-    {
-      "name": "Vajravarahi's Quality",
-      "children": [
-        {
-          "name": "Belwong Kalasiddhi"
-        }
-      ]
-    },
-    {
-      "name": "Vajravarahi's Activity",
-      "children": [
-        {
-          "name": "Tashi Kyeden (or Kyedren or Chidren), sometimes called Mangala"
-        }
-      ]
-    },
-    {
-      "name": "Vajravarahi's Mind",
-      "children": [
-        {
-          "name": "Belmo Sakya Devi"
-        }
-      ]
-    },
-    {
-      "name": "Vajravarahi's Body",
-      "children": [
-        {
-          "name": "Mandarava",
-          "link": "https://en.wikipedia.org/wiki/Mand%C4%81rav%C4%81",
-          "year": "c777",
+          "name": "Vajravarahi's Speech",
           "children": [
             {
-              "name": "Niguma",
-              "link": "https://en.wikipedia.org/wiki/Niguma",
-              "year": "100"
-            },
+              "name": "Yeshe Tsogyal"
+            }
+          ]
+        },
+        {
+          "name": "Vajravarahi's Quality",
+          "children": [
             {
-              "name": "Jetsunma Do Dasel Wangmo Rinpoche",
-              "year": "1928-2019"
-            },
+              "name": "Belwong Kalasiddhi"
+            }
+          ]
+        },
+        {
+          "name": "Vajravarahi's Activity",
+          "children": [
             {
-              "name": "Jetsunma Ahkon Lhamo",
-              "year": "1949"
+              "name": "Tashi Kyeden (or Kyedren or Chidren), sometimes called Mangala"
+            }
+          ]
+        },
+        {
+          "name": "Vajravarahi's Mind",
+          "children": [
+            {
+              "name": "Belmo Sakya Devi"
+            }
+          ]
+        },
+        {
+          "name": "Vajravarahi's Body",
+          "children": [
+            {
+              "name": "Mandarava",
+              "link": "https://en.wikipedia.org/wiki/Mand%C4%81rav%C4%81",
+              "year": "c777",
+              "children": [
+                {
+                  "name": "Niguma",
+                  "link": "https://en.wikipedia.org/wiki/Niguma",
+                  "year": "100"
+                },
+                {
+                  "name": "Jetsunma Do Dasel Wangmo Rinpoche",
+                  "year": "1928-2019"
+                },
+                {
+                  "name": "Jetsunma Ahkon Lhamo",
+                  "year": "1949"
+                }
+              ]
             }
           ]
         }
       ]
+    },
+    {
+      "name": "Nubchen Sangye Yeshe",
+      "children": [
+        {
+          "name": "Terton Tsasum Lingpa"
+        }
+      ],
+      "year": "17th century"
     }
   ]
 }

@@ -43,65 +43,211 @@
                       "link": "https://en.wikipedia.org/wiki/Sri_Singha",
                       "children": [
                         {
+                          "name": "Nubchen Sangye Yeshe",
+                          "link": "https://en.wikipedia.org/wiki/Nubchen_Sangye_Yeshe"
+                        },
+                        {
                           "name": "Padmasambhava",
                           "link": "https://en.wikipedia.org/wiki/Padmasambh%C4%81va",
                           "year": "750",
                           "source": "padmasambava",
                           "children": [
                             {
-                              "name": "Yeshe Tsogyal",
-                              "link": "https://en.wikipedia.org/wiki/Yeshe_Tsogyal",
-                              "year": "c777",
+                              "name": "Women",
                               "children": [
                                 {
-                                  "name": "Karchen Zhonnu Dronma"
+                                  "name": "Tsenamza Sangyetso"
                                 },
                                 {
-                                  "name": "Monmo Tashi Khyidren, or Tashi Children (of Bhutan)"
+                                  "name": "Shekar Dorjetso"
                                 },
                                 {
-                                  "name": "Shelkar Dorje Tsomo, or Dorje Tsomo (of Shelkar)"
+                                  "name": "Tsombuza Pematso"
                                 },
                                 {
-                                  "name": "Be Yeshe Nyingpo"
+                                  "name": "Melongza Rinchensho"
                                 },
                                 {
-                                  "name": "Ma Rinchen Chok"
+                                  "name": "Ruza Tondrupma"
                                 },
                                 {
-                                  "name": "Odren Zhonu Pel, or Odren Pelgyi Zhonnu"
+                                  "name": "Shubuza Sherampa"
                                 },
                                 {
-                                  "name": "Langlab Gyelwa Jangchub Dorje"
+                                  "name": "Yamdrokza Choki Dronma"
                                 },
                                 {
-                                  "name": "Lasum Gyelwa Jangjub, or Atsara Sale"
+                                  "name": "Oceza Kargyelma"
                                 },
                                 {
-                                  "name": "Darcha Dorje Pawo"
+                                  "name": "Dzemza Lhamo"
                                 },
                                 {
-                                  "name": "Ukyi Nyima, or Surya Tepa (of central Tibet)"
+                                  "name": "Barza Lhayang"
                                 },
                                 {
-                                  "name": "Queen Li-za Jangchub Dronma, or Jangchub Drolma (of Khotan), Queen of Trisong Detsen"
+                                  "name": "Chokroza Changchupman"
+                                },
+                                {
+                                  "name": "Dronma Pamti Chenmo"
+                                },
+                                {
+                                  "name": "Rongmenza Tsultrim-dron"
+                                },
+                                {
+                                  "name": "Khuza Peltsunma"
+                                },
+                                {
+                                  "name": "Trumza Shelmen"
+                                },
+                                {
+                                  "name": "Yeshe Tsogyal",
+                                  "link": "https://en.wikipedia.org/wiki/Yeshe_Tsogyal",
+                                  "year": "c777",
+                                  "children": [
+                                    {
+                                      "name": "Karchen Zhonnu Dronma"
+                                    },
+                                    {
+                                      "name": "Monmo Tashi Khyidren, or Tashi Children (of Bhutan)"
+                                    },
+                                    {
+                                      "name": "Shelkar Dorje Tsomo, or Dorje Tsomo (of Shelkar)"
+                                    },
+                                    {
+                                      "name": "Be Yeshe Nyingpo"
+                                    },
+                                    {
+                                      "name": "Ma Rinchen-chok",
+                                      "link": "https://en.wikipedia.org/wiki/Rinchen_Chok_of_Ma"
+                                    },
+                                    {
+                                      "name": "Odren Zhonu Pel, or Odren Pelgyi Zhonnu"
+                                    },
+                                    {
+                                      "name": "Langlab Gyelwa Jangchub Dorje"
+                                    },
+                                    {
+                                      "name": "Lasum Gyelwa Jangjub, or Atsara Sale"
+                                    },
+                                    {
+                                      "name": "Darcha Dorje Pawo"
+                                    },
+                                    {
+                                      "name": "Ukyi Nyima, or Surya Tepa (of central Tibet)"
+                                    },
+                                    {
+                                      "name": "Queen Li-za Jangchub Dronma, or Jangchub Drolma (of Khotan), Queen of Trisong Detsen"
+                                    }
+                                  ]
                                 }
                               ]
                             },
                             {
                               "name": "Mandarava",
                               "link": "https://en.wikipedia.org/wiki/Mand%C4%81rav%C4%81"
+                            },
+                            {
+                              "name": "King Trisong Detsen"
+                            },
+                            {
+                              "name": "Denma Tsémang"
+                            },
+                            {
+                              "name": "Nanam Dorje Dudjom, Dorje Dudjom of Nanam"
+                            },
+                            {
+                              "name": "Drokben Khyechung Lotsawa"
+                            },
+                            {
+                              "name": "Lasum Gyelwa Changchup, Gyalwa Changchub of Lasum"
+                            },
+                            {
+                              "name": "Gyalwa Choyang"
+                            },
+                            {
+                              "name": "Dre Gyelwei Lodro, Gyalwe Lodro of Dré"
+                            },
+                            {
+                              "name": "Nyak Jnanakumara, Jnanakumara of Nyak"
+                            },
+                            {
+                              "name": "Kawa Paltsek",
+                              "link": "https://en.wikipedia.org/wiki/Kawa_Paltsek"
+                            },
+                            {
+                              "name": "Langdro Konchok Jungue, Konchog Jungné of Langdro"
+                            },
+                            {
+                              "name": "Sogdian Lhapel, Lhapal the Sokpo"
+                            },
+                            {
+                              "name": "Namkhai Nyingpo",
+                              "link": "https://en.wikipedia.org/wiki/Namkhai_Nyingpo"
+                            },
+                            {
+                              "name": "Nanam Zhang Yeshe De"
+                            },
+                            {
+                              "name": "Lhalung Pelgi Dorje",
+                              "year": "842",
+                              "link": "https://en.wikipedia.org/wiki/Lhalung_Pelgyi_Dorje"
+                            },
+                            {
+                              "name": "Shuphu Pelgi Senge, Palgyi Senge"
+                            },
+                            {
+                              "name": "Karchen Palgyi Wangchuk"
+                            },
+                            {
+                              "name": "Odren Pelgi Wangchuk, Palgyi Wangchuk of Odren"
+                            },
+                            {
+                              "name": "Palgyi Yeshe"
+                            },
+                            {
+                              "name": "Ma Rinchen-chok",
+                              "link": "https://en.wikipedia.org/wiki/Rinchen_Chok_of_Ma"
+                            },
+                            {
+                              "name": "Nubchen Sangye Yeshe",
+                              "link": "https://en.wikipedia.org/wiki/Nubchen_Sangye_Yeshe"
+                            },
+                            {
+                              "name": "Shubu Palgyi Senge"
+                            },
+                            {
+                              "name": "Vairocana, Vairotsana, the great translator"
+                            },
+                            {
+                              "name": "Yeshe Yang"
+                            },
+                            {
+                              "name": "Gyelmo Yudra Nyingpo, Yudra Nyingpo of Gyalmo"
+                            },
+                            {
+                              "name": "Vimalamitra",
+                              "link": "https://en.wikipedia.org/wiki/Vimalamitra",
+                              "year": "800",
+                              "children": [
+                                {
+                                  "name": "Ma Rinchen-chok",
+                                  "link": "https://en.wikipedia.org/wiki/Rinchen_Chok_of_Ma"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Tingdzin Zangpo"
                             }
                           ]
                         },
                         {
                           "name": "Vimalamitra",
                           "link": "https://en.wikipedia.org/wiki/Vimalamitra",
-                          "year": "800",
-                          "target": "vimalamitra"
+                          "year": "800"
                         },
                         {
-                          "name": "Vairocana",
+                          "name": "Vairocana, Vairotsana, the great translator",
                           "link": "https://en.wikipedia.org/wiki/Vairocana"
                         }
                       ]
@@ -115,7 +261,7 @@
                   "target": "padmasambava",
                   "children": [
                     {
-                      "name": "Trisong Detsen",
+                      "name": "King Trisong Detsen",
                       "link": "https://en.wikipedia.org/wiki/Trisong_Detsen",
                       "year": "760",
                       "children": [
@@ -124,8 +270,14 @@
                           "year": "760",
                           "children": [
                             {
-                              "name": "Śāntarakṣita",
-                              "link": "https://en.wikipedia.org/wiki/%C5%9A%C4%81ntarak%E1%B9%A3ita"
+                              "name": "Shantarakshita,",
+                              "link": "https://en.wikipedia.org/wiki/%C5%9A%C4%81ntarak%E1%B9%A3ita",
+                              "children": [
+                                {
+                                  "name": "Ma Rinchen-chok",
+                                  "link": "https://en.wikipedia.org/wiki/Rinchen_Chok_of_Ma"
+                                }
+                              ]
                             },
                             {
                               "name": "Vimalamitra",
@@ -148,6 +300,16 @@
           "link": "https://en.wikipedia.org/wiki/Nalanda",
           "year": "427",
           "children": [
+            {
+              "name": "Kamalashila",
+              "link": "https://en.wikipedia.org/wiki/Kamala%C5%9B%C4%ABla",
+              "children": [
+                {
+                  "name": "Nubchen Sangye Yeshe",
+                  "link": "https://en.wikipedia.org/wiki/Nubchen_Sangye_Yeshe"
+                }
+              ]
+            },
             {
               "name": "Buddhaguhya",
               "link": "https://en.wikipedia.org/wiki/Buddhaguhya",
