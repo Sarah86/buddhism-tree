@@ -1,0 +1,182 @@
+{
+  "name": "Tibetan buddhism",
+  "children": [
+    {
+      "name": "Buddha Samantabhadra, Primordial Buddha",
+      "link": "https://en.wikipedia.org/wiki/Adi-Buddha",
+      "year": "0",
+      "children": [
+        {
+          "name": "Vajrasattva",
+          "link": "https://en.wikipedia.org/wiki/Vajrasattva",
+          "children": [
+            {
+              "name": "Vajragarvi aka Vajrasatvātmikā (Dorje Nyema)"
+            },
+            {
+              "name": "Dharmadhatvishvari"
+            },
+            {
+              "name": "Ghantapani ('Bell Bearer')"
+            },
+            {
+              "name": "Diptacakra"
+            },
+            {
+              "name": "Vajratopa"
+            },
+            {
+              "name": "Vajrabhrikuti"
+            },
+            {
+              "name": "Garab Dorje",
+              "link": "https://en.wikipedia.org/wiki/Garab_Dorje",
+              "year": "c365",
+              "children": [
+                {
+                  "name": "Manjushrimitra",
+                  "link": "https://en.wikipedia.org/wiki/Ma%C3%B1ju%C5%9Br%C4%ABmitra",
+                  "year": "740",
+                  "children": [
+                    {
+                      "name": "Sri Singha",
+                      "link": "https://en.wikipedia.org/wiki/Sri_Singha",
+                      "children": [
+                        {
+                          "name": "Padmasambhava",
+                          "link": "https://en.wikipedia.org/wiki/Padmasambh%C4%81va",
+                          "year": "750",
+                          "source": "padmasambava",
+                          "children": [
+                            {
+                              "name": "Yeshe Tsogyal",
+                              "link": "https://en.wikipedia.org/wiki/Yeshe_Tsogyal",
+                              "year": "c777",
+                              "children": [
+                                {
+                                  "name": "Karchen Zhonnu Dronma"
+                                },
+                                {
+                                  "name": "Monmo Tashi Khyidren, or Tashi Children (of Bhutan)"
+                                },
+                                {
+                                  "name": "Shelkar Dorje Tsomo, or Dorje Tsomo (of Shelkar)"
+                                },
+                                {
+                                  "name": "Be Yeshe Nyingpo"
+                                },
+                                {
+                                  "name": "Ma Rinchen Chok"
+                                },
+                                {
+                                  "name": "Odren Zhonu Pel, or Odren Pelgyi Zhonnu"
+                                },
+                                {
+                                  "name": "Langlab Gyelwa Jangchub Dorje"
+                                },
+                                {
+                                  "name": "Lasum Gyelwa Jangjub, or Atsara Sale"
+                                },
+                                {
+                                  "name": "Darcha Dorje Pawo"
+                                },
+                                {
+                                  "name": "Ukyi Nyima, or Surya Tepa (of central Tibet)"
+                                },
+                                {
+                                  "name": "Queen Li-za Jangchub Dronma, or Jangchub Drolma (of Khotan), Queen of Trisong Detsen"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Mandarava",
+                              "link": "https://en.wikipedia.org/wiki/Mand%C4%81rav%C4%81"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Vimalamitra",
+                          "link": "https://en.wikipedia.org/wiki/Vimalamitra",
+                          "year": "800",
+                          "target": "vimalamitra"
+                        },
+                        {
+                          "name": "Vairocana",
+                          "link": "https://en.wikipedia.org/wiki/Vairocana"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Padmasambhava",
+                  "link": "https://en.wikipedia.org/wiki/Padmasambh%C4%81va",
+                  "year": "750",
+                  "target": "padmasambava",
+                  "children": [
+                    {
+                      "name": "Trisong Detsen",
+                      "link": "https://en.wikipedia.org/wiki/Trisong_Detsen",
+                      "year": "760",
+                      "children": [
+                        {
+                          "name": "Samye - Monastery",
+                          "year": "760",
+                          "children": [
+                            {
+                              "name": "Śāntarakṣita",
+                              "link": "https://en.wikipedia.org/wiki/%C5%9A%C4%81ntarak%E1%B9%A3ita"
+                            },
+                            {
+                              "name": "Vimalamitra",
+                              "link": "https://en.wikipedia.org/wiki/Vimalamitra",
+                              "year": "800",
+                              "source": "vimalamitra"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nalanda University",
+          "link": "https://en.wikipedia.org/wiki/Nalanda",
+          "year": "427",
+          "children": [
+            {
+              "name": "Buddhaguhya",
+              "link": "https://en.wikipedia.org/wiki/Buddhaguhya",
+              "year": "700",
+              "children": [
+                {
+                  "name": "Vimalamitra",
+                  "link": "https://en.wikipedia.org/wiki/Vimalamitra",
+                  "year": "800",
+                  "target": "vimalamitra"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jnanasutras",
+          "year": "600",
+          "link": "https://en.wikipedia.org/wiki/Jnanasutra",
+          "children": [
+            {
+              "name": "Vimalamitra",
+              "link": "https://en.wikipedia.org/wiki/Vimalamitra",
+              "year": "800",
+              "source": "vimalamitra"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
