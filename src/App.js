@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import { useEffect, useRef } from "react";
 import "./App.css";
 import * as d3 from "d3";
